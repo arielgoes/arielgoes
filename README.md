@@ -8,3 +8,13 @@
   <a href="https://github.com/arielgoes" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielgoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielgoes&layout=compact&langs_count=7&theme=tokyonight"/>
+
+
+## Work Experience
+[<img align="left" height="94px" width="94px" alt="RNP" src="https://www.rnp.br/arquivos/MicrosoftTeams-image%20%2816%29.png?.l2nzOP37Nmt3EXh4ug2Uocdyh_vF9SA"/>](https://www.rnp.br/)
+**Software Developer** \
+[**RNP**](https://www.rnp.br/) • Contract \
+Languages/Technologies: `SD-Fabric`, `Python`, `P4` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
