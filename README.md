@@ -11,10 +11,14 @@
 
 
 ## Work Experience
+[<img align="left" height="94px" width="94px" alt="RNP" src="https://lospampa.files.wordpress.com/2019/04/unnamed.png"/>](https://www.rnp.br/)\
+**Researcher** \
+[**LOSPampa**](https://lospampa.com/) • Contract \
+Languages/Technologies: `Java`, `Python`, `P4` \
+Research Area: [P4](https://lospampa.com/)
+ 
+ 
 [<img align="left" height="94px" width="94px" alt="RNP" src="https://www.rnp.br/arquivos/MicrosoftTeams-image%20%2816%29.png?.l2nzOP37Nmt3EXh4ug2Uocdyh_vF9SA"/>](https://www.rnp.br/)
 **Software Developer** \
 [**RNP**](https://www.rnp.br/) • Contract \
-Languages/Technologies: `SD-Fabric`, `Python`, `P4` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
+Languages/Technologies: `SD-Fabric`, `P4`
