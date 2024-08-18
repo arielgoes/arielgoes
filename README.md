@@ -14,5 +14,5 @@ Hello, everyone!
 
 ![ultra_fast_typing_cat](https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3)
 
-![snake animation](https://github.com/<seu user name>/<arielgoes>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/arielgoes/arielgoes/blob/output/github-contribution-grid-snake2.svg)
 
