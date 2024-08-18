@@ -7,8 +7,9 @@
 </div>
 
 ### Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-g%C3%B3es-de-castro-928ba2158/)](https://www.linkedin.com/in/ariel-g%C3%B3es-de-castro-928ba2158/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arielgoesdecastro@gmail.com)](mailto:arielgoesdecastro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-g%C3%B3es-de-castro-928ba2158/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielgoesdecastro@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goes.ariel/)
 
 
 ### Overview
@@ -33,8 +34,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=arielgoes)
-<h3>Contributions
-  <img src="https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3" alt="ultra_fast_typing_cat" width="5%">
-</h3> 
+<h3>Contributions</h3>
+<img src="https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3" alt="ultra_fast_typing_cat" width="5%">
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arielgoes/arielgoes/output/github-contribution-grid-snake-dark.svg"/>
