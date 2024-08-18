@@ -17,4 +17,4 @@
 
 ![ultra_fast_typing_cat](https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/arielgoes/arielgoes/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/arielgoes/arielgoes/output/github-contribution-grid-snake-dark.svg"/>
