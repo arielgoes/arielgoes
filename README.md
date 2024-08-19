@@ -7,7 +7,11 @@
 </div>
 
 <p>
-  <img hspace="125" align="center" height="75%" width="75%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif" />
+  <img hspace="125" align="center" height="75%" width="75%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif"/>
+</p>
+
+<p align="center">
+  credits: http://kirokaze.deviantart.com/
 </p>
 
 ### Contact
