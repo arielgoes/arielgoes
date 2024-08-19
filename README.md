@@ -6,11 +6,14 @@
   </h1>
 </div>
 
+<p>
+  <img hspace="125" align="center" height="75%" width="75%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif" />
+</p>
+
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-g%C3%B3es-de-castro-928ba2158/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielgoesdecastro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goes.ariel/)
-
 
 ### Overview
 <div align="center">
