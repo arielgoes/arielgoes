@@ -6,13 +6,13 @@
   </h1>
 </div>
 
-<p>
-  <img hspace="125" align="center" height="75%" width="75%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif"/>
-</p>
+<div align="center">
+  <img align="center" height="75%" width="75%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif"/>
+</div>
 
-<p align="center">
+<div align="center">
   credits: http://kirokaze.deviantart.com/
-</p>
+</div>
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-g%C3%B3es-de-castro-928ba2158/)
