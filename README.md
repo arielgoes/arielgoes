@@ -40,8 +40,28 @@
 -->
 
 
-![](https://komarev.com/ghpvc/?username=arielgoes)
-<h3>Contributions</h3>
-<img src="https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3" alt="ultra_fast_typing_cat" width="5%">
+<h3 align="center">🐱 My contribution activity be like:</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/576535ec-d63c-4c05-8bf5-748e26a66cb3" alt="ultra_fast_typing_cat" width="20%">
+</p>
+
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arielgoes/arielgoes/output/github-contribution-grid-snake-dark.svg"/>
+
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-FFD43B?style=flat&logo=python&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+<p align="center">
+  ⌨️ Made with caffeine & code in a rainy neon-lit café 🌃
+</p>
+
+
+
