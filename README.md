@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img align="center" height="70%" width="70%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif"/>
+  <img align="center" height="100%" width="100%" src="https://github.com/arielgoes/arielgoes/blob/main/cyberpunk_coffee_shop_raining.gif"/>
 </div>
 
 <div align="center">
